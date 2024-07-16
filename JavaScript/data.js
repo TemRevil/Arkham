@@ -97,6 +97,6 @@ const newsData = [
     {
         title: "Cyberpunk 2077 DLC Announcement",
         text: "CD Projekt Red has announced the first major DLC for Cyberpunk 2077, promising a wealth of new content, including story expansions, new areas to explore, and numerous enhancements to the game world. Stay tuned for more details! This DLC aims to enrich the Cyberpunk universe, addressing community feedback and introducing fresh adventures, characters, and gameplay mechanics.",
-        imgSrc: "Background/News/Cyberpunk 2077 DLC.jpeg"
+        imgSrc: "Background/News/Cyberpunk.jpeg"
     }
 ];

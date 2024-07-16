@@ -803,7 +803,7 @@ footer {
     }
 
     .slider {
-        height: 750px;
+        height: 650px;
     }
     .slider .title {
         font-size: 64px;
@@ -851,8 +851,8 @@ footer {
         height: 450px;
     }
     .game-logo img {
-        max-width: 380px;
-        min-width: 380px;
+        max-width: 200px;
+        min-width: 200px;
     }
     #vid-slider-left, #vid-slider-right {
         font-size: 48px;
@@ -929,11 +929,11 @@ footer {
     }
 
     .videos {
-        height: 320px;
+        height: 220px;
     }
 
     .news-img {
-        height: 350px;
+        height: 220px;
     }
 }
 @media (max-width: 320px) {
